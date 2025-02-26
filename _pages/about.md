@@ -18,21 +18,6 @@ redirect_from:
 
 📚 I'm a prospective PhD student for Fall 2025.
 
-# Selected Experience
+# News
 
-## 👨🏻‍🔬 Software Engineer ![Samsung](/images/samsung.png){: .align-right width="100px"}
-[Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd)
-
-*(Feb 24 - Present)*
-
-I am working with the **Health Provider** team. I collaborated with Samsung HQ (South Korea) to develop Samsung’s first smart ring, the “Galaxy Ring”.
-
-Additionally, I have contributed to **Research and Innovation** by submitting ML-based ideas for the patent and building PoC (Proof of Concept) for AI and UWB (Ultra-Wideband)-related solutions.
-
-## 👨🏻‍🔬 Intern ![Brain Station 23](/images/brain station 23.jpg){: .align-right width="120px"}
-[Brain Station 23](https://brainstation-23.com/)
-
-*(Jan 23 - Feb 23)*
-
-I worked on **privacy risks for digital payment apps** by mapping their privacy policies to GDPR-related keywords.
 
