@@ -14,6 +14,12 @@ I am working with the **Health Provider** team. I collaborated with Samsung HQ (
 
 Additionally, I have contributed to **Research and Innovation** by submitting ML-based ideas for the patent and building PoC (Proof of Concept) for AI and UWB (Ultra-Wideband)-related solutions.
 
+## 👨🏻‍🔬 Instructor ![MIST Computer Club](/images/mcc-logo.jpg){: .align-right width="120px"}
+[MIST Computer Club](https://mist.ac.bd/page/computer-club1)
+
+*(May 21 - April 24)*
+
+
 ## 👨🏻‍🔬 Intern ![Brain Station 23](/images/brain station 23.jpg){: .align-right width="120px"}
 [Brain Station 23](https://brainstation-23.com/)
 

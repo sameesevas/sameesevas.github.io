@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Champion in Independence Day Programming Contest 2023
-Our team, MIST_BitMusketeers, became the champion by solving 8 out of 11 problems. We were also the first to solve 2 problems. Additionally, I solved a critical problem that only one team managed to solve using `ordered_set`.
+Our team, MIST_BitMusketeers, became the champion by solving 8 out of 11 problems. We were also the first to solve 2 problems. Additionally, I solved a critical problem that only one team managed to solve using `ordered_set`. [(News Link)](https://mist.ac.bd/department/cse/announcement/437/celebrating_excellence_in_programming_independence_day_programming_contest_2023_sets_new_standards_of_achievement_and_inspiration)
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/idpc (2).jpg" alt="Champion in Independence Day Programming Contest 2023" style="width: 48%;">
@@ -14,7 +14,7 @@ Our team, MIST_BitMusketeers, became the champion by solving 8 out of 11 problem
 </div>
 
 ## 27th in ICPC (International Collegiate Programming Contest) Asia West Continent Final Contest 2022 (Bangladesh Rank: 5th)
-Our team, MIST_FrostByte_1.1, achieved outstanding success at the ICPC Asia West Continent Final Contest 2022. We secured an impressive global rank of 27 and an incredible Bangladesh rank of 5. I solved a game theory problem that only 0.015% of teams managed to solve during the contest.
+Our team, MIST_FrostByte_1.1, achieved outstanding success at the ICPC Asia West Continent Final Contest 2022. We secured an impressive global rank of 27 and an incredible Bangladesh rank of 5. I solved a game theory problem that only 0.015% of teams managed to solve during the contest. [(News Link)](https://mist.ac.bd/department/cse/announcement/436/mist_shines_bright_in_icpc_asia_west_continent_finals_achieving_record_breaking_success)
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/icpc-asia-west (1).jpg" alt="27th in ICPC Asia West Continent Final Contest 2022" style="width: 48%;">

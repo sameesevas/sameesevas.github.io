@@ -30,6 +30,3 @@ inventory tracking, billing, and customer management.
   <img src="/images/mcafe (2).jpg" alt="Galaxy Fit3" style="width: 48%;">
 </div>
 
-
-
-
