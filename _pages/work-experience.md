@@ -19,10 +19,11 @@ Additionally, I have contributed to **Research and Innovation** by submitting ML
 
 *(May 21 - April 24)*
 
+I took C, C++, Python, Data Structures & Algorithms programming classes for over 100+ students. I was also a problem setter of various programming contests and organized various programming and technical events.
 
 ## 👨🏻‍🔬 Intern ![Brain Station 23](/images/brain station 23.jpg){: .align-right width="120px"}
 [Brain Station 23](https://brainstation-23.com/)
 
 *(Jan 23 - Feb 23)*
 
-I worked on **privacy risks for digital payment apps** by mapping their privacy policies to GDPR-related keywords.
+I worked on privacy risks for digital payment apps by mapping their privacy policies to GDPR-related keywords.
