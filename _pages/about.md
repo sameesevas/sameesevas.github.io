@@ -9,7 +9,7 @@ redirect_from:
 
 👨🏻‍💻 I am a Software Engineer at [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd).
 
-🎓 I obtained my B.S. degree in Computer Science and Engineering from [Military Institute of Science and Technology (MIST)](https://mist.ac.bd/), graduating with a CGPA of 3.79/4.00.
+🎓 I obtained my B.S. degree in Computer Science and Engineering from [Military Institute of Science and Technology (MIST)](https://mist.ac.bd/),  affiliated with the [Bangladesh University of Professionals (BUP)](https://bup.edu.bd/).
 
 🔐 My research insterest on artificial intelligence and machine learning, with a focus on real-world applications.
 

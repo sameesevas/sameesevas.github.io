@@ -39,6 +39,10 @@ I have secured 1st place in the CAMA Programming Competition🥇. CAMA is a mixe
 
 <img src='/images/ctf.jpg' width="400px">
 
+## Executive Director at MIST Drama and Film Society (March 2022 – February 2023)
+
+<img src='/images/mdfs (2).jpg' width="400px">
+
 ## Participated in the 12th National Undergraduate Mathematics Olympiad 2021
 
 <img src='/images/math.jpg' width="400px">
