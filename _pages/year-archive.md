@@ -39,6 +39,6 @@ I placed 15th among over 500 participants from all over Bangladesh and solved a 
 ## Participated in over 20 onsite programming contests and more than 300 online programming contests
 
 ## Solved over 2,500 problems in different online judges
-[ICPCID](https://icpc.global/ICPCID/IWGLAFASGZ5F) , [Codeforces](https://codeforces.com/profile/samee.sevas) , [Vjuge](https://vjudge.net/user/Samee_Sevas) , [CSES](https://cses.fi/problemset/user/52502/) , [LightOJ](https://lightoj.com/user/sameesevas) , [StopStalk](https://www.stopstalk.com/user/profile/Samee_Sevas)
+[ICPCID](https://icpc.global/ICPCID/IWGLAFASGZ5F) , [Codeforces](https://codeforces.com/profile/samee.sevas) , [VJudge](https://vjudge.net/user/Samee_Sevas) , [CSES](https://cses.fi/problemset/user/52502/) , [LightOJ](https://lightoj.com/user/sameesevas) , [StopStalk](https://www.stopstalk.com/user/profile/Samee_Sevas)
 
 
