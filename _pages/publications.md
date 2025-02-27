@@ -31,3 +31,15 @@ Shejuti Binte Feroz, Nusrat Sharmin, **Muhammad Samee Sevas**, Arindam Chatterje
 [Solar Radiation Forecasting using Deep Learning Techniques: Enlightening Solar Energy Future of Bangladesh](https://drive.google.com/file/d/1qf40JVSu6214QlXcpMuGtnuihjIpdU3w/view)  
 **Muhammad Samee Sevas**, Nusrat Sharmin, Chowdhury Farjana Tur Santona.    
 *2024 International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET)*  
+
+## Extended Abstract Presentation:
+
+### AI-based Solar Energy Framework: explainable AI for solar energy generation and GNN for optimal location identification in Bangladesh
+*IEEE CS BDC Summer Symposium 2023* 
+
+<img src='/images/pid106.jpg' width="400px">
+
+### Optimal solar panel location finding using capacitated facility location problem
+*IEEE CS BDC Summer Symposium 2023* 
+
+<img src='/images/pid103.jpg' width="400px">

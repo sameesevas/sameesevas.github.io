@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I'm a Software Engineer at *Samsung R&D Institute Bangladesh*.
+👨🏻‍💻 I am a Software Engineer at [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd).
 
+🎓 I obtained my B.S. degree in Computer Science and Engineering from [Military Institute of Science and Technology (MIST)](https://mist.ac.bd/), graduating with a CGPA of 3.79/4.00.
 
-🎓 I hold a B.Sc. in Computer Science and Engineering from *Military Institute of Science and Technology (MIST)*, graduating with a CGPA of 3.79/4.00.
+🔐 My research insterest on artificial intelligence and machine learning, with a focus on real-world applications.
 
-🔐 My research focuses on software security and privacy, integrating human factors to develop systems that are both reliable and accessible.
-
-🤖 I'm also curious about the evolving landscape of Generative AI, the challenges and risks tied to its adoption, and how it shapes the future of technology.
+🤖 I have actively participated in over 20 onsite programming contests and more than 300 online programming contests.
 
 📚 I'm a prospective PhD student for Fall 2025.
 
