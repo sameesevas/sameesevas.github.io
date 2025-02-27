@@ -28,13 +28,13 @@ Our team MIST_FrostByte_1.1 secured the 16th position among 160+ teams from 100+
 
 ## Champion in Intra MIST Junior Programming Contest (CodeWar-2020) and won the title “MIST Best Junior Programmer-2020”
 I became the champion in the Intra MIST Junior Programming Contest (CodeWar 2020). I was awarded Best Problem Solver (1st) in Segment 2, Best Problem Solver (2nd) in Segment 1, Best Codeforces Solver in Segment 1, Best Problem Solver (1st) in Segment 4, and Best Codeforces Solver in Segment 2.
-[News Link](https://mist.ac.bd/department/cse/announcement/206/codewar_2020_winners)
+[(News Link)](https://mist.ac.bd/department/cse/announcement/206/codewar_2020_winners)
 <br/><br/>
 <img src='/images/codewar.jpg' width="300px">
 
 ## 15th in Synapse Year-End Contest 2021
 I placed 15th among over 500 participants from all over Bangladesh and solved a challenging problem that only 0.2% of participants managed to solve during the contest.
-[Link](https://oj.synapse0.com/standings.php?contest=3)
+[(Link)](https://oj.synapse0.com/standings.php?contest=3)
 
 ## Participated in over 20 onsite programming contests and more than 300 online programming contests
 
