@@ -62,7 +62,7 @@ img.center {
 
 ## Participated in the 12th National Undergraduate Mathematics Olympiad 2021
 
-<img src='/images/math.jpg' width="500px" class="center">
+<img src='/images/math.jpg' width="600px" class="center">
 
 ## Volunteered in National Collegiate Programming Competition (NCPC) 2020
 
