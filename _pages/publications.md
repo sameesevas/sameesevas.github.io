@@ -37,9 +37,13 @@ Shejuti Binte Feroz, Nusrat Sharmin, **Muhammad Samee Sevas**, Arindam Chatterje
 ### AI-based Solar Energy Framework: explainable AI for solar energy generation and GNN for optimal location identification in Bangladesh
 *IEEE CS BDC Summer Symposium 2023* 
 
-<img src='/images/pid106.jpg' width="400px">
+<p align="center">
+  <img src="/images/pid106.jpg" width="600px">
+</p>
 
 ### Optimal solar panel location finding using capacitated facility location problem
 *IEEE CS BDC Summer Symposium 2023* 
 
-<img src='/images/pid103.jpg' width="400px">
+<p align="center">
+  <img src="/images/pid103.jpg" width="600px">
+</p>
