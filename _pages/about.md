@@ -13,7 +13,7 @@ p {
 }
 </style>
 
-<p>I am a Software Engineer, Innovator and Researcher at <a href="https://research.samsung.com/srbd">Samsung R&D Institute Bangladesh</a>. I obtained my B.S. degree in Computer Science and Engineering from the <a href="https://mist.ac.bd/">Military Institute of Science and Technology (MIST)</a>, affiliated with the <a href="https://bup.edu.bd/">Bangladesh University of Professionals (BUP)</a>. During my undergraduate studies, I published three international conference papers and two peer-reviewed journal publications. Additionally, I am deeply passionate about competitive programming and problem-solving. Over the years, I have actively participated in over 20 onsite programming contests and more than 300 online programming contests</p>
+<p>I am a Software Engineer, Innovator and Researcher at <a href="https://research.samsung.com/srbd">Samsung R&D Institute Bangladesh</a>. I obtained my B.S. degree in Computer Science and Engineering from the <a href="https://mist.ac.bd/">Military Institute of Science and Technology (MIST)</a>, affiliated with the <a href="https://bup.edu.bd/">Bangladesh University of Professionals (BUP)</a>. During my undergraduate studies, I published three international conference papers and two peer-reviewed journal publications. Additionally, I am deeply passionate about competitive programming and problem-solving. Over the years, I have actively participated in over 20 onsite programming contests and more than 300 online programming contests.</p>
  
 
 ## News  
