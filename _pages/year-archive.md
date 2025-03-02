@@ -33,7 +33,7 @@ Our team, MIST_FrostByte_1.1, achieved outstanding success at the ICPC Asia West
   <img src="/images/icpc-asia-west (2).jpg" alt="27th in ICPC Asia West Continent Final Contest 2022" style="width: 48%;">
 </div>
 
-## 16th in ICPC Asia Dhaka Regional Contest 2022
+## 16th in ICPC Asia Dhaka Regional Contest 2022 (Top 7%)
 <p>
 Our team MIST_FrostByte_1.1 secured the 16th position among 160+ teams from 100+ institutions in the 2022 ICPC Asia Dhaka Regional Contest.
 </p>
@@ -48,7 +48,7 @@ I became the champion in the Intra MIST Junior Programming Contest (CodeWar 2020
 
 <img src='/images/codewar.jpg' width="300px" style="display: block; margin: auto;">
 
-## 15th in Synapse Year-End Contest 2021
+## 15th in Synapse Year-End Contest 2021 (Top 5%)
 <p>
 I placed 15th among over 500 participants from all over Bangladesh and solved a challenging problem that only 0.2% of participants managed to solve during the contest. 
 <a href="https://oj.synapse0.com/standings.php?contest=3">[Link]</a>

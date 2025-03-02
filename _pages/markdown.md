@@ -56,6 +56,16 @@ img.center {
 
 <img src='/images/google-farewell.jpg' width="600px" class="center">
 
+## Progressed to Round 2 of the Meta Hacker Cup 2021, 2022, 2023 (Top 10%)
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="/images/meta-1.jpg" alt="Progressed to Round 2 of the Meta Hacker Cup 2021" style="width: 32%;">
+  <img src="/images/meta-2.jpg" alt="Progressed to Round 2 of the Meta Hacker Cup 2022" style="width: 32%;">
+  <img src="/images/meta-3.jpg" alt="Progressed to Round 2 of the Meta Hacker Cup 2023" style="width: 32%;">
+</div>
+
+
+
 ## Top 10% in Google Kick Start 2022
 
 <img src='/images/google-kick-start.jpg' width="500px" class="center">
