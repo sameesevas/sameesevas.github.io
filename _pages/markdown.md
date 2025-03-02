@@ -39,7 +39,7 @@ img.center {
   <img src="/images/dean-award (2).jpg" alt="MIST Dean’s List 2021" style="width: 48%;">
 </div>
 
-## Winner in the Basic Division of the CAMA Informatics Contest 2023
+## Secured 1st place in the Basic Division of the CAMA Informatics Contest 2023
 
 <p>I have secured 1st place in the CAMA Programming Competition🥇. CAMA is a mixed competition of mathematics and informatics founded by Spanish international medallists in those disciplines.</p>
 
@@ -51,6 +51,14 @@ img.center {
 ## Vice President at MIST Drama and Film Society (March 2023 – February 2024)
 
 <img src='/images/mdfs.jpg' width="400px" class="center">
+
+## Top 8% in Google Farewell Contest
+
+<img src='/images/google-farewell.jpg' width="600px" class="center">
+
+## Top 10% in Google Kick Start 2022
+
+<img src='/images/google-kick-start.jpg' width="500px" class="center">
 
 ## Participated in MIST LeetCon 2023 HackMeIfYouCan
 
@@ -67,7 +75,3 @@ img.center {
 ## Volunteered in National Collegiate Programming Competition (NCPC) 2020
 
 <img src='/images/ncpc.jpg' width="500px" class="center">
-
-## Worked as a Private Tutor During My Undergraduate Studies and Taught More Than 20 Students
-
-<p>I worked as a private tutor during my undergraduate studies, helping more than 20 students improve their programming and mathematics skills.</p>
