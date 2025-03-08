@@ -19,12 +19,18 @@ img.center {
 
 ## Samsung Team of the Year 2024
 
-<p>Celebrating the 15th anniversary of Samsung Research and Development Institute Bangladesh, and what a perfect moment to receive the "Team of the Year 2024" award with our amazing team members.</p>
+<p>Celebrating the 15th anniversary of Samsung R&D Institute Bangladesh, and what a perfect moment to receive the "Team of the Year 2024" award with our amazing team members.</p>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/team-of-the-year (1).jpg" alt="Samsung Team of the Year 2024" style="width: 48%;">
   <img src="/images/team-of-the-year (2).jpg" alt="Samsung Team of the Year 2024" style="width: 48%;">
 </div>
+
+## Passed Samsung SW Certificate Test and earned Software Professional Certification
+
+<p>Honored to receive the Excellence in SW Certificate Test from Samsung R&D Institute Bangladesh for achieving Professional Level Certification in the SWC test.</p>
+
+<img src='/images/swc.jpg' width="600px" class="center">
 
 ## Samsung Mobile R&D CTO Award
 

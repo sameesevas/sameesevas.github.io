@@ -21,7 +21,7 @@ p {
 - **Febuary 2025**: Received Samsung Team of the Year 2024 Award.
 - **November 2024**: One paper is accepted at ICRPSET 2024.
 - **October 2024**: Received Samsung Mobile R&D CTO Award.
-- **October 2024**: Earned Samsung Software Professional Certification.
+- **October 2024**: Passed Samsung SW Certificate Test and earned Software Professional Certification.
 - **April 2024**: Earned Bachelor of Science in Computer Science and Engineering degree.
 - **March 2024**: One paper is accepted at Theoretical and Applied Climatology Journal.
 - **Febuary 2024**: Successfully defended Undergraduate Thesis defense.
