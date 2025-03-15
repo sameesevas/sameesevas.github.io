@@ -54,6 +54,10 @@ img.center {
   <img src="/images/cama (1).jpg" alt="Winner in the Basic Division of the CAMA Informatics Contest 2023" style="width: 48%;">
 </div>
 
+## Executive Director at MIST Computer Club (March 2023 – April 2024)
+
+<img src='/images/mcc-post.jpg' width="400px" class="center">
+
 ## Vice President at MIST Drama and Film Society (March 2023 – February 2024)
 
 <img src='/images/mdfs.jpg' width="400px" class="center">
