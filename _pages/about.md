@@ -18,6 +18,7 @@ p {
 
 ## News  
 
+- **March 2025**: One Patent filled in Samsung.
 - **Febuary 2025**: Received Samsung Team of the Year 2024 Award.
 - **November 2024**: One paper is accepted at ICRPSET 2024.
 - **October 2024**: Received Samsung Mobile R&D CTO Award.
