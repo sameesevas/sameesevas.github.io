@@ -33,8 +33,8 @@ Shejuti Binte Feroz, Nusrat Sharmin, **Muhammad Samee Sevas**, Arindam Chatterje
 *2023 IEEE 9th International Women in Engineering (WIE) Conference on Electrical and Computer Engineering
 (WIECON-ECE), Thiruvananthapuram, India* 
 
-[Solar Radiation Forecasting using Deep Learning Techniques: Enlightening Solar Energy Future of Bangladesh](https://drive.google.com/file/d/1qf40JVSu6214QlXcpMuGtnuihjIpdU3w/view)  
-**Muhammad Samee Sevas**, Nusrat Sharmin, Chowdhury Farjana Tur Santona.    
+[Solar Radiation Forecasting using Deep Learning Techniques: Enlightening Solar Energy Future of Bangladesh](https://ieeexplore.ieee.org/document/10955957)  
+**Muhammad Samee Sevas**, Chowdhury Farjana Tur Santona, Nusrat Sharmin.    
 *2024 International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET)*  
 
 ## Extended Abstract Presentation:
