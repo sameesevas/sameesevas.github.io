@@ -24,7 +24,7 @@ Chowdhury Farjana Tur Santona, Nusrat Sharmin, **Muhammad Samee Sevas**, Rubaiye
 *(Under Review)*  
 
 ## Peer-reviewed Conference Publications: 
-[Ensemble machinelearning model for solar radiation prediction using explainable AI](https://ieeexplore.ieee.org/document/10307694)  
+[Ensemble machine-learning model for solar radiation prediction using explainable AI](https://ieeexplore.ieee.org/document/10307694)  
 **Muhammad Samee Sevas**, Nusrat Sharmin, Chowdhury Farjana Tur Santona.  
 *2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), Delhi, India*  
 
