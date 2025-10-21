@@ -8,11 +8,11 @@ author_profile: true
 ## 👨🏻‍🔬 Software Engineer ![Samsung](/images/samsung.png){: .align-right width="100px"}
 [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd)
 
-*(Feb 24 - Present)*
+*(Feb 24 - Aug 25)*
 
-I am working with the **Health Provider** team. I collaborated with Samsung HQ (South Korea) to develop Samsung’s first smart ring, the “Galaxy Ring”.
+I worked with the **Health Provider** team. I collaborated with Samsung HQ (South Korea) to develop Samsung’s first smart ring, the “Galaxy Ring”.
 
-Additionally, I have contributed to **Research and Innovation** by one patent in Samsung and building PoC (Proof of Concept) for AI and UWB (Ultra-Wideband)-related solutions.
+Additionally, I contributed to **Research and Innovation** by one patent in Samsung and building PoC (Proof of Concept) for AI and UWB (Ultra-Wideband)-related solutions.
 
 ## 👨🏻‍🔬 Instructor ![MIST Computer Club](/images/mcc-logo.jpg){: .align-right width="120px"}
 [MIST Computer Club](https://mist.ac.bd/page/computer-club1)

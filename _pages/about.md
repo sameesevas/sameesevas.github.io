@@ -13,12 +13,12 @@ p {
 }
 </style>
 
-<p>I am a Software Engineer, Innovator and Researcher at <a href="https://research.samsung.com/srbd">Samsung R&D Institute Bangladesh</a>. I obtained my B.S. degree in Computer Science and Engineering from the <a href="https://mist.ac.bd/">Military Institute of Science and Technology (MIST)</a>, affiliated with the <a href="https://bup.edu.bd/">Bangladesh University of Professionals (BUP)</a>. During my undergraduate studies, I published three international conference papers and two peer-reviewed journal publications. Additionally, I am deeply passionate about competitive programming and problem-solving. Over the years, I have actively participated in over 20 onsite programming contests and more than 300 online programming contests.</p>
+<p>I am currently pursuing my Ph.D. in Computer Science at <a href="https://www.uta.edu">The University of Texas at Arlington</a>. Before this, I worked as a Software Engineer, Innovator, and Researcher at <a href="https://research.samsung.com/srbd">Samsung R&D Institute Bangladesh</a>. I obtained my B.S. degree in Computer Science and Engineering from the <a href="https://mist.ac.bd/">Military Institute of Science and Technology (MIST)</a>, affiliated with the <a href="https://bup.edu.bd/">Bangladesh University of Professionals (BUP)</a>. During my undergraduate studies, I published three international conference papers and two peer-reviewed journal publications. Additionally, I am deeply passionate about competitive programming and problem-solving. Over the years, I have actively participated in over 20 onsite programming contests and more than 300 online programming contests.</p>
  
 
 ## News  
 
-- **March 2025**: One Patent filled in Samsung.
+- **August 2025**: Started Ph.D. in Computer Science at The University of Texas at Arlington.
 - **Febuary 2025**: Received Samsung Team of the Year 2024 Award.
 - **November 2024**: One paper is accepted at ICRPSET 2024.
 - **October 2024**: Received Samsung Mobile R&D CTO Award.

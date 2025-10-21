@@ -5,11 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Patent:
-### Method of touch position recognition on mobile screen in underwear when no wireless connection is available
-**Muhammad Samee Sevas**, Sayed Mahmud Al Amin.  
-*Filled in Samsung, Under Review for US Patent*  
-
 ## Refereed Journals:
 [Advanced ensemble machine-learning and explainable AI with hybridized clustering for solar irradiation prediction in Bangladesh](https://link.springer.com/article/10.1007/s00704-024-04951-5)  
 **Muhammad Samee Sevas**, Nusrat Sharmin, Chowdhury Farjana Tur Santona, Saidur Rahaman Sagor.  
