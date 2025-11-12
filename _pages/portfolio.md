@@ -13,7 +13,7 @@ author_profile: true
 
 ## Pedestrian Intention Prediction in Autonomous Vehicles
 <p>
-We use YOLO to detect pedestrians and track their position, speed, and body pose. This data is then given to a Qwen LLM, which analyzes patterns to predict the pedestrian’s next action, like crossing the street or waiting.
+We use YOLO to detect pedestrians and track their position, speed, and body pose. This data is then given to a Qwen VLM, which analyzes patterns to predict the pedestrian’s next action, like crossing the street or waiting.
 </p>
 
 <div style="display: flex; justify-content: space-between;">
