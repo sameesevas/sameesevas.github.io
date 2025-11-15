@@ -11,6 +11,16 @@ author_profile: true
   }
 </style>
 
+## Pedestrian Intention Prediction in Autonomous Vehicles
+<p>
+We use YOLO to detect pedestrians and track their position, speed, and body pose. This data is then given to a Qwen VLM, which analyzes patterns to predict the pedestrian’s next action, like crossing the street or waiting.
+</p>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="/images/YOLO.jpg" alt="Pedestrian Intention Prediction in Autonomous Vehicles" style="width: 48%;">
+  <img src="/images/qwen.jpg" alt="Pedestrian Intention Prediction in Autonomous Vehicles" style="width: 48%;">
+</div>
+
 ## Solar Irradiation Prediction
 <p>
 The study focuses on improving solar irradiance prediction in Bangladesh using advanced machine learning techniques. It highlights the importance of ensemble learning, which combines multiple models for more accurate forecasts. Unlike previous research, this study explores ensemble AI methods and introduces Explainable AI (XAI) to provide insights into prediction factors. A novel hybrid approach using clustering techniques and the LightGBM algorithm is proposed for better efficiency. Additionally, an AutoML tool integrating XAI and ensemble learning is developed. The results, validated with PyCaret, show that LightGBM performs best for solar irradiance prediction. 
