@@ -11,9 +11,9 @@ author_profile: true
   }
 </style>
 
-## Pedestrian Intention Prediction in Autonomous Vehicles
+## Enhancing Autonomous Vehicle Pipelines with a Reasoning Layer
 <p>
-We use YOLO to detect pedestrians and track their position, speed, and body pose. This data is then given to a Qwen VLM, which analyzes patterns to predict the pedestrian’s next action, like crossing the street or waiting.
+In the perception layer of the autonomous vehicle pipeline, objects are first detected and tracked. Then, in the reasoning layer, we predict the intention of each object using a vision–language model.
 </p>
 
 <div style="display: flex; justify-content: space-between;">
