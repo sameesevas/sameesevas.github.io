@@ -17,7 +17,9 @@ p {
 
  
 
-## News  
+## News
+- **August 2026**: One paper is accepted at BECITHCON 2026.
+- **May 2026**: One paper is accepted at Discover Geoscience.  
 - **March 2026**: Selected Participant with Travel Grant to 5th Annual CyberTractor Challenge, 2026.
 - **August 2025**: Started Ph.D. in Computer Science at The University of Texas at Arlington.
 - **Febuary 2025**: Received Samsung Team of the Year 2024 Award.
