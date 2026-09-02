@@ -19,11 +19,10 @@ Shejuti Binte Feroz, Nusrat Sharmin, **Muhammad Samee Sevas**.
 *Asian Journal of Civil Engineering (2024)* 
 
 ## Conference Publications: 
-Time-Aware Intent Prediction for Autonomous Vehicles using Adaptive Scheduling
-
+Time-Aware Intent Prediction for Autonomous Vehicles using Adaptive Scheduling<br>
 **Muhammad Samee Sevas**, Md Tasnim Farhan Fatin, Afia Anjum, Vijay Kumar Banerjee, Monowar Hasan, Habeeb Olufowobi.
 *2027 IEEE International Conference on Robotics & Automation (ICRA)*
-*(Under Review)*  
+**(Under Review)**
 
 [Solar Radiation Forecasting using Deep Learning Techniques: Enlightening Solar Energy Future of Bangladesh](https://ieeexplore.ieee.org/document/10955957)  
 **Muhammad Samee Sevas**, Chowdhury Farjana Tur Santona, Nusrat Sharmin.    
