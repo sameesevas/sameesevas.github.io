@@ -13,11 +13,27 @@ p {
 }
 </style>
 
-<p>I am currently pursuing my Ph.D. in Computer Science at <a href="https://www.uta.edu">The University of Texas at Arlington</a>. Before this, I worked as a Software Engineer, Innovator, and Researcher at <a href="https://research.samsung.com/srbd">Samsung R&D Institute Bangladesh</a>. I obtained my B.S. degree in Computer Science and Engineering from the <a href="https://mist.ac.bd/">Military Institute of Science and Technology (MIST)</a>, affiliated with the <a href="https://bup.edu.bd/">Bangladesh University of Professionals (BUP)</a>. During my undergraduate studies, I published three international conference papers and two peer-reviewed journal publications. Additionally, I am deeply passionate about competitive programming and problem-solving. Over the years, I have actively participated in over 20 onsite programming contests and more than 300 online programming contests.</p>
+<p>
+  I am a Ph.D. student in Computer Science at
+  <a href="https://www.uta.edu" target="_blank">The University of Texas at Arlington</a>,
+  with research interests in application of AI, safety and security autonomous vehicles,
+  real-time systems, and AI. My current research focuses on time-aware and
+  safety-aware AI for autonomous systems. Previously, I worked as a Software
+  Engineer and Innovator at
+  <a href="https://research.samsung.com/srbd" target="_blank">
+    Samsung R&amp;D Institute Bangladesh
+  </a>.
+  I earned my B.Sc. in Computer Science and Engineering from the
+  <a href="https://mist.ac.bd/" target="_blank">
+    Military Institute of Science and Technology (MIST)
+  </a>.
+  I am also passionate about competitive programming and problem-solving,
+  having participated in 300+ programming contests.
+</p>
  
 
 ## News  
-
+- **March 2026**: Selected Participant with Travel Grant to 5th Annual CyberTractor Challenge, 2026.
 - **August 2025**: Started Ph.D. in Computer Science at The University of Texas at Arlington.
 - **Febuary 2025**: Received Samsung Team of the Year 2024 Award.
 - **November 2024**: One paper is accepted at ICRPSET 2024.
