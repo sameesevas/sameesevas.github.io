@@ -13,23 +13,8 @@ p {
 }
 </style>
 
-<p>
-  I am a Ph.D. student in Computer Science at
-  <a href="https://www.uta.edu" target="_blank">The University of Texas at Arlington</a>,
-  with research interests in application of AI, safety and security autonomous vehicles,
-  real-time systems, and AI. My current research focuses on time-aware and
-  safety-aware AI for autonomous systems. Previously, I worked as a Software
-  Engineer and Innovator at
-  <a href="https://research.samsung.com/srbd" target="_blank">
-    Samsung R&amp;D Institute Bangladesh
-  </a>.
-  I earned my B.Sc. in Computer Science and Engineering from the
-  <a href="https://mist.ac.bd/" target="_blank">
-    Military Institute of Science and Technology (MIST)
-  </a>.
-  I am also passionate about competitive programming and problem-solving,
-  having participated in 300+ programming contests.
-</p>
+<p>I am a Ph.D. student in Computer Science at <a href="https://www.uta.edu" target="_blank">The University of Texas at Arlington</a>, with research interests in applications of AI, safety and security of autonomous vehicles, and real-time systems. My current research focuses on time-aware and safety-aware AI for autonomous systems. Previously, I worked as a Software Engineer and Innovator at <a href="https://research.samsung.com/srbd" target="_blank">Samsung R&amp;D Institute Bangladesh</a>. I earned my B.Sc. in Computer Science and Engineering from the <a href="https://mist.ac.bd/" target="_blank">Military Institute of Science and Technology (MIST)</a>. I am also passionate about competitive programming and problem-solving, having participated in 300+ programming contests.</p>
+
  
 
 ## News  

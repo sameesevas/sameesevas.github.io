@@ -11,9 +11,10 @@ author_profile: true
   }
 </style>
 
-## Enhancing Autonomous Vehicle Pipelines with a Reasoning Layer
+## Time-Aware Intent Prediction for Autonomous Vehicles
 <p>
-In the perception layer of the autonomous vehicle pipeline, objects are first detected and tracked. Then, in the reasoning layer, we predict the intention of each object using a vision–language model.
+Deadline-aware adaptive scheduling framework that assigns VLM and DNN models to detected objects, improving
+prediction safety over fixed-model and state-of-the-art baselines. Evaluated on CARLA and a real ground rover
 </p>
 
 <div style="display: flex; justify-content: space-between;">

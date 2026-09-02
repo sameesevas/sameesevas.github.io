@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Refereed Journals:
+## Journals:
+[An empirical analysis of explainable artificial intelligence tool for solar radiation prediction.](https://link.springer.com/article/10.1007/s44288-026-00554-x)  
+Chowdhury Farjana Tur Santona, Nusrat Sharmin, **Muhammad Samee Sevas**, Rubaiyet Islam, Saidur Rahman Sagor.  
+*Discover Geoscience (2026)*  
+
 [Advanced ensemble machine-learning and explainable AI with hybridized clustering for solar irradiation prediction in Bangladesh](https://link.springer.com/article/10.1007/s00704-024-04951-5)  
 **Muhammad Samee Sevas**, Nusrat Sharmin, Chowdhury Farjana Tur Santona, Saidur Rahaman Sagor.  
 *Theoretical and Applied Climatology (2024)*  
@@ -14,11 +18,16 @@ author_profile: true
 Shejuti Binte Feroz, Nusrat Sharmin, **Muhammad Samee Sevas**.  
 *Asian Journal of Civil Engineering (2024)* 
 
-[An Empirical Analysis of Explainable Artificial Intelligence Based on Feature Importance in Solar Irradiance Prediction](https://drive.google.com/file/d/1we6F8Ajl_A280adZNfwTRDqk08zYFlyH/view)  
-Chowdhury Farjana Tur Santona, Nusrat Sharmin, **Muhammad Samee Sevas**, Rubaiyet Islam, Saidur Rahman Sagor.  
+## Conference Publications: 
+Time-Aware Intent Prediction for Autonomous Vehicles using Adaptive Scheduling
+**Muhammad Samee Sevas**, Md Tasnim Farhan Fatin, Afia Anjum, Vijay Kumar Banerjee, Monowar Hasan, Habeeb Olufowobi.
+*2027 IEEE International Conference on Robotics & Automation (ICRA)*
 *(Under Review)*  
 
-## Peer-reviewed Conference Publications: 
+[Solar Radiation Forecasting using Deep Learning Techniques: Enlightening Solar Energy Future of Bangladesh](https://ieeexplore.ieee.org/document/10955957)  
+**Muhammad Samee Sevas**, Chowdhury Farjana Tur Santona, Nusrat Sharmin.    
+*2024 International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET)*  
+
 [Ensemble machine-learning model for solar radiation prediction using explainable AI](https://ieeexplore.ieee.org/document/10307694)  
 **Muhammad Samee Sevas**, Nusrat Sharmin, Chowdhury Farjana Tur Santona.  
 *2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), Delhi, India*  
@@ -27,10 +36,6 @@ Chowdhury Farjana Tur Santona, Nusrat Sharmin, **Muhammad Samee Sevas**, Rubaiye
 Shejuti Binte Feroz, Nusrat Sharmin, **Muhammad Samee Sevas**, Arindam Chatterjee.  
 *2023 IEEE 9th International Women in Engineering (WIE) Conference on Electrical and Computer Engineering
 (WIECON-ECE), Thiruvananthapuram, India* 
-
-[Solar Radiation Forecasting using Deep Learning Techniques: Enlightening Solar Energy Future of Bangladesh](https://ieeexplore.ieee.org/document/10955957)  
-**Muhammad Samee Sevas**, Chowdhury Farjana Tur Santona, Nusrat Sharmin.    
-*2024 International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET)*  
 
 ## Extended Abstract Presentation:
 
