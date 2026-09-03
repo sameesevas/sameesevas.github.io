@@ -1,8 +1,8 @@
 ---
 permalink: /markdown/
-title: "Extra-curricular Activities, Awards, and Honors"
+title: "Extracurricular Activities, Awards, and Honors"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /md/
   - /markdown.html
 ---
@@ -11,87 +11,148 @@ redirect_from:
 p {
   text-align: justify;
 }
+
 img.center {
   display: block;
-  margin: 0 auto;
+  margin: 20px auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.image-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+
+.image-row img {
+  max-width: 100%;
+  height: auto;
 }
 </style>
 
+
+## Organizing Secretary, Bangladesh Student Organization at UTA (August 2026 – July 2027)
+
+<img src="/images/uta.jpg" width="400px" class="center" alt="Bangladesh Student Organization at UTA">
+
+
 ## Samsung Team of the Year 2024
 
-<p>Celebrating the 15th anniversary of Samsung R&D Institute Bangladesh, and what a perfect moment to receive the "Team of the Year 2024" award with our amazing team members.</p>
+<p>
+Received the <strong>Team of the Year 2024</strong> award as part of Samsung R&D Institute Bangladesh's 15th anniversary celebration.
+</p>
 
-<div style="display: flex; justify-content: space-between;">
+<div class="image-row">
   <img src="/images/team-of-the-year (1).jpg" alt="Samsung Team of the Year 2024" style="width: 48%;">
   <img src="/images/team-of-the-year (2).jpg" alt="Samsung Team of the Year 2024" style="width: 48%;">
 </div>
 
-## Passed Samsung SW Certificate Test and earned Software Professional Certification
 
-<p>Honored to receive the Excellence in SW Certificate Test from Samsung R&D Institute Bangladesh for achieving Professional Level Certification in the SWC test.</p>
+## Samsung Software Professional Certification
 
-<img src='/images/swc.jpg' width="600px" class="center">
+<p>
+Received recognition for successfully achieving <strong>Professional Level Certification</strong> in Samsung's SW Certificate Test.
+</p>
+
+<img src="/images/swc.jpg" width="600px" class="center" alt="Samsung Software Professional Certification">
+
 
 ## Samsung Mobile R&D CTO Award
 
-<p>I am honored to receive the Mobile R&D CTO award for my contributions to the Samsung Galaxy Smart Ring during July–September 2024.</p>
+<p>
+Received the <strong>Samsung Mobile R&D CTO Award</strong> for contributions to the Samsung Galaxy Ring during July–September 2024.
+</p>
 
-<img src='/images/cto.jpg' width="600px" class="center">
+<img src="/images/cto.jpg" width="600px" class="center" alt="Samsung Mobile R&D CTO Award">
 
-## Placed in the MIST Dean’s List 2020, 2021, 2022 and Awarded a University Merit Scholarship for Graduating Magna Cum Laude
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="/images/dean-award (1).jpg" alt="MIST Dean’s List 2021" style="width: 48%;">
-  <img src="/images/dean-award (2).jpg" alt="MIST Dean’s List 2021" style="width: 48%;">
+## MIST Dean's List and University Merit Scholarship
+
+<p>
+Placed on the <strong>MIST Dean's List</strong> in 2020, 2021, and 2022, and received a University Merit Scholarship for graduating <strong>Magna Cum Laude</strong>.
+</p>
+
+<div class="image-row">
+  <img src="/images/dean-award (1).jpg" alt="MIST Dean's List Award" style="width: 48%;">
+  <img src="/images/dean-award (2).jpg" alt="MIST Dean's List Award" style="width: 48%;">
 </div>
 
-## Secured 1st place in the Basic Division of the CAMA Informatics Contest 2023
 
-<p>I have secured 1st place in the CAMA Programming Competition🥇. CAMA is a mixed competition of mathematics and informatics founded by Spanish international medallists in those disciplines.</p>
+## 1st Place in the Basic Division of the CAMA Informatics Contest 2023
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="/images/cama (2).jpg" alt="Winner in the Basic Division of the CAMA Informatics Contest 2023" style="width: 48%;">
-  <img src="/images/cama (1).jpg" alt="Winner in the Basic Division of the CAMA Informatics Contest 2023" style="width: 48%;">
+<p>
+Secured <strong>1st place</strong> in the Basic Division of the CAMA Informatics Contest 2023. CAMA is a competition in mathematics and informatics founded by Spanish international medalists in these disciplines.
+</p>
+
+<div class="image-row">
+  <img src="/images/cama (2).jpg" alt="CAMA Informatics Contest 2023" style="width: 48%;">
+  <img src="/images/cama (1).jpg" alt="CAMA Informatics Contest 2023" style="width: 48%;">
 </div>
 
-## Executive Director at MIST Computer Club (March 2023 – April 2024)
 
-<img src='/images/mcc-post.jpg' width="400px" class="center">
+## Executive Director, MIST Computer Club (March 2023 – April 2024)
 
-## Vice President at MIST Drama and Film Society (March 2023 – February 2024)
+<img src="/images/mcc-post.jpg" width="400px" class="center" alt="MIST Computer Club">
 
-<img src='/images/mdfs.jpg' width="400px" class="center">
+
+## Vice President, MIST Drama and Film Society (March 2023 – February 2024)
+
+<img src="/images/mdfs.jpg" width="400px" class="center" alt="MIST Drama and Film Society">
+
 
 ## Top 8% in Google Farewell Contest
 
-<img src='/images/google-farewell.jpg' width="600px" class="center">
+<img src="/images/google-farewell.jpg" width="600px" class="center" alt="Google Farewell Contest">
 
-## Progressed to Round 2 of the Meta Hacker Cup 2021, 2022, 2023 (Top 10%)
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="/images/meta-1.jpg" alt="Progressed to Round 2 of the Meta Hacker Cup 2021" style="width: 32%;">
-  <img src="/images/meta-2.jpg" alt="Progressed to Round 2 of the Meta Hacker Cup 2022" style="width: 32%;">
-  <img src="/images/meta-3.jpg" alt="Progressed to Round 2 of the Meta Hacker Cup 2023" style="width: 32%;">
+## Meta Hacker Cup 2021, 2022, and 2023 — Round 2 (Top 10%)
+
+<p>
+Progressed to <strong>Round 2</strong> of the Meta Hacker Cup in 2021, 2022, and 2023, placing within the <strong>Top 10%</strong>.
+</p>
+
+<div class="image-row">
+  <img src="/images/meta-1.jpg" alt="Meta Hacker Cup 2021" style="width: 31%;">
+  <img src="/images/meta-2.jpg" alt="Meta Hacker Cup 2022" style="width: 31%;">
+  <img src="/images/meta-3.jpg" alt="Meta Hacker Cup 2023" style="width: 31%;">
 </div>
-
 
 
 ## Top 10% in Google Kick Start 2022
 
-<img src='/images/google-kick-start.jpg' width="500px" class="center">
+<img src="/images/google-kick-start.jpg" width="500px" class="center" alt="Google Kick Start 2022">
 
-## Participated in MIST LeetCon 2023 HackMeIfYouCan
 
-<img src='/images/ctf.jpg' width="500px" class="center">
+## MIST LeetCon 2023 — HackMeIfYouCan
 
-## Executive Director at MIST Drama and Film Society (March 2022 – February 2023)
+<p>
+Participated in the <strong>HackMeIfYouCan</strong> cybersecurity competition at MIST LeetCon 2023.
+</p>
 
-<img src='/images/mdfs (2).jpg' width="400px" class="center">
+<img src="/images/ctf.jpg" width="500px" class="center" alt="MIST LeetCon HackMeIfYouCan">
 
-## Participated in the 12th National Undergraduate Mathematics Olympiad 2021
 
-<img src='/images/math.jpg' width="600px" class="center">
+## Executive Director, MIST Drama and Film Society (March 2022 – February 2023)
 
-## Volunteered in National Collegiate Programming Competition (NCPC) 2020
+<img src="/images/mdfs (2).jpg" width="400px" class="center" alt="MIST Drama and Film Society">
 
-<img src='/images/ncpc.jpg' width="500px" class="center">
+
+## 12th National Undergraduate Mathematics Olympiad 2021
+
+<p>
+Participated in the <strong>12th National Undergraduate Mathematics Olympiad</strong> in 2021.
+</p>
+
+<img src="/images/math.jpg" width="600px" class="center" alt="National Undergraduate Mathematics Olympiad 2021">
+
+
+## Volunteer, National Collegiate Programming Contest (NCPC) 2020
+
+<p>
+Volunteered at the <strong>National Collegiate Programming Contest (NCPC) 2020</strong>.
+</p>
+
+<img src="/images/ncpc.jpg" width="500px" class="center" alt="National Collegiate Programming Contest 2020">
