@@ -36,7 +36,7 @@ img.center {
 
 ## Organizing Secretary, Bangladesh Student Organization at UTA (August 2026 – July 2027)
 
-<img src="/images/uta.jpg" width="400px" class="center" alt="Bangladesh Student Organization at UTA">
+<img src="/images/BSO.jpg" width="400px" class="center" alt="Bangladesh Student Organization at UTA">
 
 
 ## Samsung Team of the Year 2024
