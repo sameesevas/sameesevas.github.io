@@ -6,49 +6,86 @@ author_profile: true
 ---
 
 <style>
-  p {
-    text-align: justify;
-  }
+p {
+  text-align: justify;
+}
+
+.image-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+
+.image-row img {
+  max-width: 100%;
+  height: auto;
+}
+
+img.center {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  height: auto;
+}
 </style>
 
+
 ## Time-Aware Intent Prediction for Autonomous Vehicles
+
 <p>
-Deadline-aware adaptive scheduling framework that assigns VLM and DNN models to detected objects, improving
-prediction safety over fixed-model and state-of-the-art baselines. Evaluated on CARLA and a real ground rover
+Developing a deadline-aware adaptive scheduling framework that dynamically assigns VLM and DNN models to detected objects based on computational and safety requirements. The framework aims to improve prediction safety and real-time performance compared with fixed-model and state-of-the-art baselines. The system is evaluated using the CARLA simulator and a real-world ground rover.
 </p>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="/images/YOLO.jpg" alt="Pedestrian Intention Prediction in Autonomous Vehicles" style="width: 48%;">
-  <img src="/images/qwen.jpg" alt="Pedestrian Intention Prediction in Autonomous Vehicles" style="width: 48%;">
+<div class="image-row">
+  <img src="/images/YOLO.jpg" alt="Time-Aware Intent Prediction for Autonomous Vehicles" style="width: 48%;">
+  <img src="/images/qwen.jpg" alt="Time-Aware Intent Prediction for Autonomous Vehicles" style="width: 48%;">
 </div>
 
+
 ## Solar Irradiation Prediction
+
 <p>
-The study focuses on improving solar irradiance prediction in Bangladesh using advanced machine learning techniques. It highlights the importance of ensemble learning, which combines multiple models for more accurate forecasts. Unlike previous research, this study explores ensemble AI methods and introduces Explainable AI (XAI) to provide insights into prediction factors. A novel hybrid approach using clustering techniques and the LightGBM algorithm is proposed for better efficiency. Additionally, an AutoML tool integrating XAI and ensemble learning is developed. The results, validated with PyCaret, show that LightGBM performs best for solar irradiance prediction. 
-<a href="https://link.springer.com/article/10.1007/s00704-024-04951-5">[Published Journal Link]</a>
+This research focuses on improving solar irradiance prediction in Bangladesh using advanced machine learning techniques. The work investigates ensemble learning methods that combine multiple models to improve prediction accuracy and incorporates Explainable AI (XAI) to identify the factors influencing model predictions. A hybrid approach combining clustering techniques with LightGBM is also explored to improve predictive performance and efficiency. In addition, an AutoML framework integrating ensemble learning and XAI is developed. Experimental results show that LightGBM achieves strong performance for solar irradiance prediction.
 </p>
 
-<div style="display: flex; justify-content: space-between;">
+<p>
+<a href="https://link.springer.com/article/10.1007/s00704-024-04951-5" target="_blank">[Published Journal Link]</a>
+</p>
+
+<div class="image-row">
   <img src="/images/solar (2).jpg" alt="Solar Irradiation Prediction" style="width: 48%;">
   <img src="/images/solar.jpg" alt="Solar Irradiation Prediction" style="width: 48%;">
 </div>
 
+
 ## Earthquake Magnitude and Damage Prediction
+
 <p>
-Our study focuses on improving earthquake magnitude and damage prediction using machine learning (ML) and deep learning (DL) techniques. It bridges a research gap by comparing ML and DL models for magnitude prediction, evaluating 12 algorithms, including ensemble-based methods, using various performance metrics. Additionally, it explores earthquake damage prediction by optimizing ensemble ML models with hyperparameter tuning, an area not previously studied. The research highlights the importance of hyperparameter optimization in enhancing predictive accuracy and resilience. The findings contribute to both seismic risk assessment and broader applications, such as climate change analysis. 
-<a href="https://link.springer.com/article/10.1007/s42107-024-00994-1">[Published Journal Link]</a>
+This research investigates earthquake magnitude and damage prediction using machine learning (ML) and deep learning (DL) techniques. For magnitude prediction, multiple ML and DL algorithms are evaluated and compared using different performance metrics. The research also explores earthquake damage prediction using ensemble machine learning models and investigates how hyperparameter optimization can improve predictive performance. The findings contribute to data-driven seismic risk assessment and disaster resilience.
 </p>
 
-<div style="display: flex; justify-content: space-between;">
+<p>
+<a href="https://link.springer.com/article/10.1007/s42107-024-00994-1" target="_blank">[Published Journal Link]</a>
+</p>
+
+<div class="image-row">
   <img src="/images/earthquake (2).jpg" alt="Earthquake Magnitude and Damage Prediction" style="width: 48%;">
   <img src="/images/earthquake (1).jpg" alt="Earthquake Magnitude and Damage Prediction" style="width: 48%;">
 </div>
 
+
 ## Jononi: An Intelligent Assistive System for Expecting Mothers
+
 <p>
-Jononi reduces expecting mothers’ pregnancy problems by calculating BMI, monitoring medical data, providing dietary suggestions, and sending emergency alerts when complications are detected. Utilizing machine learning algorithms, it can predict potential health risks for expecting mothers.
-<a href="https://drive.google.com/file/d/1gFXdig62Rjf6JoSwY2BwoBxESA8XafAx/view">[Video]</a>, 
-<a href="https://github.com/sameesevas/jononi">[Code]</a>
+Jononi is an intelligent assistive system designed to support expecting mothers by calculating BMI, monitoring health-related data, providing dietary suggestions, and generating emergency alerts when potential complications are detected. The system also incorporates machine learning techniques to predict potential health risks and provide personalized assistance.
 </p>
 
-<img src='/images/jononi.jpg' width="600px" style="display: block; margin: auto;">
+<p>
+<a href="https://drive.google.com/file/d/1gFXdig62Rjf6JoSwY2BwoBxESA8XafAx/view" target="_blank">[Video]</a>
+&nbsp;&nbsp;
+<a href="https://github.com/sameesevas/jononi" target="_blank">[Code]</a>
+</p>
+
+<img src="/images/jononi.jpg" width="600px" class="center" alt="Jononi Intelligent Assistive System">
