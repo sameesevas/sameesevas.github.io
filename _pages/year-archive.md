@@ -39,7 +39,7 @@ Our team, <strong>MIST_BitMusketeers</strong>, became champion by solving 8 out 
 </p>
 
 <p>
-<a href="https://mist.ac.bd/latest/celebrating-excellence-in-programming-independence-day-programming-contest-2023-sets-new-standards-of-achievement-and-inspiration/computer_science_and_engineering" target="_blank" [News Link]</a>
+  <a href="https://mist.ac.bd/latest/celebrating-excellence-in-programming-independence-day-programming-contest-2023-sets-new-standards-of-achievement-and-inspiration/computer_science_and_engineering" target="_blank">[News Link]</a>
 </p>
 
 <div class="image-row">
