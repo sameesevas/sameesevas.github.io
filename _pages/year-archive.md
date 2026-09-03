@@ -39,7 +39,7 @@ Our team, <strong>MIST_BitMusketeers</strong>, became champion by solving 8 out 
 </p>
 
 <p>
-<a href="https://mist.ac.bd/department/cse/announcement/437/celebrating_excellence_in_programming_independence_day_programming_contest_2023_sets_new_standards_of_achievement_and_inspiration" target="_blank">[News Link]</a>
+<a href="https://mist.ac.bd/latest/celebrating-excellence-in-programming-independence-day-programming-contest-2023-sets-new-standards-of-achievement-and-inspiration/computer_science_and_engineering" target="_blank">[News Link]</a>
 </p>
 
 <div class="image-row">
@@ -55,7 +55,7 @@ Our team, <strong>MIST_FrostByte_1.1</strong>, placed 27th in the ICPC Asia West
 </p>
 
 <p>
-<a href="https://mist.ac.bd/department/cse/announcement/436/mist_shines_bright_in_icpc_asia_west_continent_finals_achieving_record_breaking_success" target="_blank">[News Link]</a>
+<a href="https://mist.ac.bd/latest/mist-shines-bright-in-icpc-asia-west-continent-finals-achieving-record-breaking-success/computer_science_and_engineering" target="_blank">[News Link]</a>
 </p>
 
 <div class="image-row">
